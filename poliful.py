@@ -4,4 +4,6 @@ int a = 10;
 
 int b = 20;
 
-print(a+b)
+int c = 30;
+
+print(a+b+c)
