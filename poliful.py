@@ -6,4 +6,6 @@ int b = 20;
 
 int c = 30;
 
-print(a+b+c)
+int d = 40;
+
+print(a+b+c+d)
