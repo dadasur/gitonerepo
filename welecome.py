@@ -1,0 +1,1 @@
+print("amol dudha pitha hai india")
