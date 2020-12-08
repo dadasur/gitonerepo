@@ -1,1 +1,1 @@
-print("amol dudha pitha hai india")
+print("amol dudha pitha hai india and pravin dudhpita hai india")
